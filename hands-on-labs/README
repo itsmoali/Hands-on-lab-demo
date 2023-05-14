@@ -4,6 +4,6 @@ The following commands should be used to run the website:
 
 * venv\Scripts\activate
 
-* pip install requirements.txt
+* pip install -r requirements.txt
 
 * python main.py
